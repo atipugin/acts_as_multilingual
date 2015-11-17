@@ -6,10 +6,10 @@ require 'acts_as_multilingual/version'
 Gem::Specification.new do |spec|
   spec.name          = 'acts_as_multilingual'
   spec.version       = ActsAsMultilingual::VERSION
-  spec.authors       = []
-  spec.email         = []
-  spec.summary       = '...'
-  spec.homepage      = '...'
+  spec.authors       = ['Alexander Tipugin']
+  spec.email         = ['atipugin@gmail.com']
+  spec.summary       = 'Store multilingual columns in JSON'
+  spec.homepage      = 'https://github.com/atipugin/acts_as_multilingual'
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.bindir        = 'exe'
