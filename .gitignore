@@ -1,0 +1,6 @@
+.bundle/
+pkg/
+vendor/bundle/
+
+.ruby-version
+Gemfile.lock
